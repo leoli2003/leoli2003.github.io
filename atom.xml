@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://leolee123.xyz</id>
     <title>Leo的分享小站</title>
-    <updated>2021-08-12T01:45:24.531Z</updated>
+    <updated>2021-08-12T02:34:05.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://leolee123.xyz"/>
     <link rel="self" href="http://leolee123.xyz/atom.xml"/>
@@ -11,4 +11,25 @@
     <logo>http://leolee123.xyz/images/avatar.png</logo>
     <icon>http://leolee123.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, Leo的分享小站</rights>
+    <entry>
+        <title type="html"><![CDATA[音乐软件分享]]></title>
+        <id>http://leolee123.xyz/post/yin-le-ruan-jian-fen-xiang/</id>
+        <link href="http://leolee123.xyz/post/yin-le-ruan-jian-fen-xiang/">
+        </link>
+        <updated>2021-08-11T09:18:39.000Z</updated>
+        <content type="html"><![CDATA[<p>1、歌词适配   一款可以下载多平台音乐的软件<br>
+链接  https://leolee00.lanzoui.com/iLqdcsiww1g  密码:ba5m</p>
+<p>2、QMD   简洁实用的音乐下载APP,数据来源于QQ音乐<br>
+链接  https://leolee00.lanzoui.com/iZ712siwt8f  密码:fhqp</p>
+<p>3、LX Music   落雪音乐桌面版   一款可以下载多平台音乐的软件<br>
+链接  https://leolee00.lanzoui.com/iYc9xsiwhej  密码 dhg4</p>
+<p>4、酷我音乐破解版   不用多说<br>
+链接  https://leolee00.lanzoui.com/isJzRsiwzad  密码:gzxo</p>
+<p>5、酷狗音乐破解版   也不用多说<br>
+链接  https://leolee00.lanzoui.com/i50gasix0kj  密码:2zgj</p>
+<p>本次分享仅为技术的学习交流<br>
+音乐平台不易，请尊重版权支持正版。<br>
+为避免侵权，请下载者于24小时内删除</p>
+]]></content>
+    </entry>
 </feed>
